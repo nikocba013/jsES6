@@ -10,6 +10,13 @@ let dup = [1,2,2,3,4,4,4,3,2,2,5,6,6,5,5,6,7,8,7,8,8,7,9,9,10];
 
 let sdup = eliminarDup(dup);
 
+// let sdup = dup => {
+//     return [... new Set(dup)];
+                                    //FORMA CON FUNC FLECHA.
+// }
+
+// console.log(sdup(dup));
+
 
 
 function eliminarDup (dup){
