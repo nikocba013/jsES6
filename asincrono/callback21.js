@@ -6,7 +6,7 @@ const empleados = [{
     nombre: "Mar"
 },{
     id    : 3,
-    nombre: "Clara"
+    nombre: "Clara" 
 }];
 
 const salarios = [{
